@@ -1,6 +1,6 @@
 # Automatic installation for Linuxbrew in Debian-based Linux
 ### Intro
-[Linuxbrew](http://linuxbrew.sh/) is a Linux port of [Homebrew](https://brew.sh/) package manager.  
+[Linuxbrew](http://linuxbrew.sh/) is a Linux port of [Homebrew](https://brew.sh/) package manager as in MacOS.  
 
 This script automates the installation of linuxbrew for debian based GNU/Linux distro.
 it fecthes the installation script and append some bash profile lines to enable some environment variables.
