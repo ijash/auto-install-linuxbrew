@@ -7,7 +7,7 @@ it fecthes the installation script and append some bash profile lines to enable 
 in short, this is linuxbrew easy installation.
 
 ### Requirements
- - Debian based Linux distribution (Ubuntu, Linux mint, Elementary OS,).
+ - Debian based Linux distribution (Ubuntu, Linux mint, Elementary OS).
  - Distro version: 2018 and above. _tested only on linux mint 19.1_
  - Bash `.profile` file is present in home folder. No validation check added to the script.
  - Active internet connection(_obviously..._)
