@@ -21,5 +21,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ijash/auto-install-linuxbr
 3. after installation, `brew` command should be available in your terminal.
 4. restart is recommended after install. It loads the `.profile` script automatically to every instance of terminal.
 
-### note
-pull request for better script are welcome.
+### Note
+This script may not the best, but it gets the job done.
+Pull request for better script are welcome.
