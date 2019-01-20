@@ -19,7 +19,7 @@ in short, this is linuxbrew easy installation.
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ijash/auto-install-linuxbrew/master/auto-install.sh)"
 ```
 3. after installation, `brew` command should be available in your terminal.
-4. restart is recommended after install. It loads the script automatically to every instance of terminal.
+4. restart is recommended after install. It loads the `.profile` script automatically to every instance of terminal.
 
 ### note
 pull request for better script are welcome.
