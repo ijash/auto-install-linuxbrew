@@ -6,8 +6,13 @@ This script automates the installation of linuxbrew for debian based GNU/Linux d
 it fecthes the installation script and append some bash profile lines to enable some environment variables.
 in short, this is linuxbrew easy installation.
 
-
-### usage
+### Requirements
+ - Debian based Linux distribution (Ubuntu, Linux mint, Elementary OS,).
+ - Distro version: 2018 and above. _tested only on linux mint 19.1_
+ - Bash `.profile` file is present in home folder. no validation check added to the script.
+ - Active internet connection(_obviously..._)
+ 
+### Usage
 1. open up terminal
 2. copy this line into terminal to run the script
 ```
