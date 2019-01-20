@@ -1,4 +1,4 @@
-# auto-install-linuxbrew
+# Automatic installation for Linuxbrew in Debian-based Linux
 ### Intro
 This script automates the installation of linuxbrew for debian based GNU/Linux distro.
 it fecthes the installation script and append some bash profile line to enable some environment variables
