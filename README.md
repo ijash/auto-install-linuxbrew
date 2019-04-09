@@ -24,3 +24,5 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ijash/auto-install-linuxbr
 ### Note
 This script may not the best, but it gets the job done.
 Pull request for better script are welcome.
+
+i've found a bug in the `.bashrc`, it may break the desktop after several lines are generated(or after hundreds of restart). help needed. 
