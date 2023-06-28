@@ -1,5 +1,5 @@
 # Automatic installation for Linuxbrew in Debian-based Linux
-_DEPRECATED: refer to [homebrew page](https://docs.brew.sh/Homebrew-on-Linux)_
+_DEPRECATED: refer to [homebrew page](https://docs.brew.sh/Homebrew-on-Linux)_ . for deprecation notes, see [linuxbrew page](https://github.com/Linuxbrew/brew) , and this [blog post](https://brew.sh/2019/02/02/homebrew-2.0.0/)
 
 ### Intro
 
